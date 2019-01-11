@@ -1,5 +1,7 @@
-Tabela campeonato brasileiro 2018:
+#Tabela campeonato brasileiro 2018:
 
-Vuejs 2.5.17
-Lodash
-Bootstrap
+-Vuejs 2.5.17
+
+-Lodash
+
+-Bootstrap
